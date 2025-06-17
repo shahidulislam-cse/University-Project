@@ -38,3 +38,30 @@ A browser-based interactive chess game where an AI engine suggests optimal moves
 - HTML5 Canvas / DOM for board rendering
 - CSS3 for responsive design
 - (Optional) Chess.js or similar libraries for move validation
+
+# 🌍 Earthquake Detection by Global Region Using AI
+
+An interactive data analysis project that detects and visualizes global earthquake activity using real-world datasets and modern Python tools.
+
+---
+
+## 🚀 Features
+
+- 📈 **Live & Historical Data** – Analyze real earthquake data from global sources.
+- 🧠 **Data Analysis** – Process and explore data using NumPy and Seaborn.
+- 📊 **Beautiful Visualizations** – Generate insightful charts with Matplotlib and Seaborn.
+- 🌐 **Web App with Streamlit** – Interactive user interface to explore earthquake patterns by region.
+
+---
+
+## 🛠️ Technologies Used
+
+| Tool        | Purpose                         |
+|-------------|----------------------------------|
+| 🐍 Python    | Core programming language        |
+| 🔢 NumPy     | Numerical computation            |
+| 📊 Matplotlib | Data visualization               |
+| 🎨 Seaborn   | Statistical plotting             |
+| 🌐 Streamlit | Web-based UI & deployment        |
+
+
