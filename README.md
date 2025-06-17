@@ -93,3 +93,32 @@ A real-time earthquake detection and alarm system using an **ADXL335 acceleromet
 - **Matplotlib / NumPy** – Seismic graph visualization
 - **PySerial** – Communication between Arduino and PC
 
+# 🏫 UGV Campus Suites Management System
+
+A smart, vision-enabled web-based campus management system designed for the University of Global Village (UGV). The system automates administrative tasks, manages student data, and verifies entry with face detection using Vision Transformers.
+
+---
+
+## 🚀 Features
+
+- 🧠 **Face Detection Entry Pass** using Vision Transformers
+- 🏷️ **Student Profile Management** (ID, name, semester, alumni status)
+- 🏫 **Classroom Scheduling & Campus Overview**
+- 📈 **Data Analysis & Visualization** using Matplotlib
+- 🔍 **Teacher Activity Checker** (active/inactive)
+- 🧾 **Semester & Alumni Filter** for student tracking
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology         | Purpose                                 |
+|--------------------|------------------------------------------|
+| 🔍 Vision Transformer | Face detection and verification         |
+| 🐼 Pandas           | Data management and analysis              |
+| 🔢 NumPy            | Numerical operations                      |
+| 📊 Matplotlib       | Visual data representation                |
+| 🤖 Scikit-learn     | Classification and filtering (if applied) |
+| 🌐 Flask/Django (optional) | Backend framework for API & routing     |
+| 🧑‍💻 HTML/CSS/JS       | Frontend interface (web UI included)     |
+
