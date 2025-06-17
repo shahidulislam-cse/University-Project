@@ -163,6 +163,7 @@ A comprehensive portfolio featuring **100+ MERN apps**, **200+ data science mini
 
 - 🖥️ **Full-Stack Web Apps:**  
   Built with **React.js**, **Next.js**, **Tailwind CSS**, **Material UI**, **Node.js**, **Express**, and **MongoDB**.
+  UI/UX designed using **Figma** for prototyping and wireframing.
 
 - 📊 **Data Science Projects:**  
   Utilized **Python**, **R**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **ggplot2** for predictive modeling and data visualization.
