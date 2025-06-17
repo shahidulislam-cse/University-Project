@@ -122,3 +122,30 @@ A smart, vision-enabled web-based campus management system designed for the Univ
 | 🌐 Flask/Django (optional) | Backend framework for API & routing     |
 | 🧑‍💻 HTML/CSS/JS       | Frontend interface (web UI included)     |
 
+
+
+# 🎨 Text-to-Image Generation with Open-Source Diffusion Models
+
+A generative AI project that transforms natural language descriptions into images using state-of-the-art diffusion models from Hugging Face. Built with Streamlit for real-time interaction.
+
+---
+
+## ✨ Features
+
+- 📝 Enter any text prompt to generate high-quality images
+- 🔁 Uses open-source **Diffusion Models** from Hugging Face
+- 🖼️ Instant preview with **Streamlit web interface**
+- 💡 Suitable for prototyping creative AI applications (art, design, storytelling)
+
+---
+
+## 🚀 Technologies Used
+
+| Tool/Library        | Purpose                                  |
+|---------------------|-------------------------------------------|
+| 🤗 Hugging Face      | Pretrained diffusion models for generation |
+| 🧠 Diffusers         | Text-to-image model pipeline              |
+| 🌐 Streamlit         | Web-based interactive UI                 |
+| 🐍 Python            | Core language                            |
+| 🔧 Transformers      | Tokenization & model handling             |
+
