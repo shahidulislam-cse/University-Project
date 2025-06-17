@@ -19,3 +19,22 @@ An AI-powered system that forecasts COVID-19 case trends using real-time data. T
 - Scikit-learn / TensorFlow (ML Model)
 - Power BI / Tableau
 - Pandas, NumPy, Matplotlib
+
+# Chess Game with AI Integration ♟️
+
+A browser-based interactive chess game where an AI engine suggests optimal moves and can play against the user. Built using vanilla JavaScript and styled with modern CSS.
+
+## 🎯 Features
+
+- 💡 AI-powered move suggestions
+- 🕹️ User vs AI gameplay mode
+- 🧠 Basic game intelligence using Minimax (or rule-based logic)
+- 🎨 Responsive UI with clean CSS styling
+- ♟️ Real-time move validation and board updates
+
+## 🛠️ Technologies Used
+
+- JavaScript (Game Logic & AI)
+- HTML5 Canvas / DOM for board rendering
+- CSS3 for responsive design
+- (Optional) Chess.js or similar libraries for move validation
