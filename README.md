@@ -65,3 +65,31 @@ An interactive data analysis project that detects and visualizes global earthqua
 | 🌐 Streamlit | Web-based UI & deployment        |
 
 
+
+# 🌍 Arduino-Based Earthquake Detection System
+
+A real-time earthquake detection and alarm system using an **ADXL335 accelerometer** with an **Arduino Nano**. The project detects vibrations, displays alerts on an LCD, and visualizes seismic activity with Python graphs via serial communication.
+
+---
+
+## 🧩 Components Used
+
+| 🔧 Component               | 📋 Description                      |
+|---------------------------|--------------------------------------|
+| 🔌 Arduino Nano           | Microcontroller board                |
+| 📦 ADXL335 Accelerometer  | Analog motion/vibration sensor       |
+| 🖥️  16x2 I2C LCD Display  | Real-time display for quake status   |
+| 🔔 Buzzer                 | Alarm for detected vibrations        |
+| 🔴 Red LED                | Visual alert                         |
+| 🧮 330-ohm Resistor       | Current limiting for LED             |
+| 🔌 Breadboard & Wires     | Circuit prototyping and connections  |
+
+---
+
+## 💻 Technologies Used
+
+- **C++ (Arduino IDE)** – For programming Arduino Nano
+- **Python** – For serial data reading & plotting
+- **Matplotlib / NumPy** – Seismic graph visualization
+- **PySerial** – Communication between Arduino and PC
+
