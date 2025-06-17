@@ -163,6 +163,7 @@ A comprehensive portfolio featuring **100+ MERN apps**, **200+ data science mini
 
 - 🖥️ **Full-Stack Web Apps:**  
   Built with **React.js**, **Next.js**, **Tailwind CSS**, **Material UI**, **Node.js**, **Express**, and **MongoDB**.
+  
   UI/UX designed using **Figma** for prototyping and wireframing.
 
 - 📊 **Data Science Projects:**  
@@ -194,3 +195,39 @@ A comprehensive portfolio featuring **100+ MERN apps**, **200+ data science mini
 - **AI/ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, R (ggplot2)  
 - **Deployment:** Firebase Hosting, Vercel, Streamlit Cloud  
+
+## 🧠 Thesis: Brain Motor Function Classification Using Deep Learning  
+### CSE 8th Semester
+
+Conducted a research thesis on EEG-based brain motor imagery classification using hybrid **CNN-LSTM-Transformer** architectures.
+
+---
+
+### 🔍 Project Highlights
+
+- ⚡ Developed a custom deep learning model combining convolutional, recurrent, and attention mechanisms.  
+- 🧪 Used **BCI Competition IV 2a** EEG dataset and custom EEG signals.  
+- 🧠 Focused on motor imagery signal classification for brain-computer interface applications.  
+- ☁️ Trained and experimented on **Google Colab** with cloud GPU support.  
+- 🛠️ Managed environments and dependencies with **Anaconda**.
+
+---
+
+### 🛠️ Tools & Technologies
+
+| 🔧 Tool / Library      | 📖 Purpose                                 |
+|-----------------------|-------------------------------------------|
+| 🐍 Python             | Core programming language                  |
+| 🔢 NumPy & Pandas     | Data processing and numerical computation |
+| 📊 Scikit-learn       | Machine learning utilities and metrics    |
+| 🤖 TensorFlow         | Deep learning framework                     |
+| 🧠 MNE-Python         | EEG/MEG data processing and analysis       |
+| 👁️ SigViewer         | Signal visualization                       |
+| 🧮 MATLAB             | Signal processing and prototyping          |
+| ☁️ Google Colab       | Cloud GPU-powered model training           |
+| 🐍 Anaconda           | Environment & package management            |
+
+---
+
+### 📚 Keywords  
+EEG, Motor Imagery, Deep Learning, CNN, LSTM, RNN, Bi-LSTM, Transformer, Signal Processing, Brain-Computer Interface (BCI)
