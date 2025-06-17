@@ -149,3 +149,47 @@ A generative AI project that transforms natural language descriptions into image
 | 🐍 Python            | Core language                            |
 | 🔧 Transformers      | Tokenization & model handling             |
 
+
+
+
+# 🧠 Full-Stack & AI Project Portfolio  
+### CSE 7th Semester
+
+A comprehensive portfolio featuring **100+ MERN apps**, **200+ data science mini-projects**, and **35+ AI-powered applications** spanning NLP, computer vision, and biomedical domains.
+
+---
+
+## 🚀 Highlights
+
+- 🖥️ **Full-Stack Web Apps:**  
+  Built with **React.js**, **Next.js**, **Tailwind CSS**, **Material UI**, **Node.js**, **Express**, and **MongoDB**.
+
+- 📊 **Data Science Projects:**  
+  Utilized **Python**, **R**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, and **ggplot2** for predictive modeling and data visualization.
+
+- 🤖 **AI & Machine Learning:**  
+  Developed NLP, Computer Vision, and Deep Learning apps using **TensorFlow**, **PyTorch**, **Scikit-learn**, **OpenCV**, **spaCy**, and **Hugging Face Transformers**.
+
+- ⚕️ **Biomedical & Neuroscience:**  
+  EEG signal classification, medical image analysis, and health diagnostics using custom datasets.
+
+---
+
+## 🗃️ Databases & Storage
+
+| Type                 | Tools & Technologies                            |
+|----------------------|------------------------------------------------|
+| 🧮 Relational DBs      | SQL, SQLite                                     |
+| 🍃 NoSQL Databases     | MongoDB, Firebase Firestore                     |
+| 🔄 Realtime Databases  | Firebase Realtime Database                       |
+| 🧠 Vector Databases    | Pinecone, FAISS, Weaviate                       |
+
+---
+
+## 🔧 Tools & Technologies
+
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **AI/ML:** Python, TensorFlow, PyTorch, Scikit-learn, OpenCV  
+- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, R (ggplot2)  
+- **Deployment:** Firebase Hosting, Vercel, Streamlit Cloud  
